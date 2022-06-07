@@ -1,7 +1,7 @@
 # SYSTEM: INSTAGRAM
 
 <p align="center">
-  <img src="https://github.com/nando-cezar/repository-img/blob/master/flex-turism1.PNG">
+  <img src="https://github.com/nando-cezar/repository-img/blob/master/instagram1.PNG">
 </p>
 
 > Status: completed.
@@ -17,5 +17,5 @@ UI Clone site Instagram
 :trophy: CSS
 
 <p align="center">
-  <img src="https://github.com/nando-cezar/repository-img/blob/master/flex-turism2.PNG">
+  <img src="https://github.com/nando-cezar/repository-img/blob/master/instagram2.PNG">
 </p>
